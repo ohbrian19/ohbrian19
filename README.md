@@ -9,8 +9,16 @@
   <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" />
   <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react" />
   <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" />
   <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" />
   <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql" />
+</p>
+
+<h3 align="center"> 🧑‍💻 Me 🧑‍💻 </h3>
+
+<p align="center">
+  <a href="https://ohbrian19.github.io/"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Blogger&logoColor=white&link=https://ohbrian19.github.io/"/></a>&nbsp
+  <a href="https://www.linkedin.com/in/ohbrian12/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ohbrian1"/></a>
+  <a href="mailto:ohbrian12@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ohbrian12@gmail.com"/></a>
 </p>
